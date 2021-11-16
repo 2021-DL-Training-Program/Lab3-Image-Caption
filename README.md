@@ -27,13 +27,13 @@ $ make
 $ python setup.py build
 $ python setup.py install
 $ cd ../../
-$ git clone https://github.com/2019-dl-training-program/Lab3
+$ git clone https://github.com/2021-dl-training-program/Lab3-Image-Caption
 ```
 
 #### 2. Download the dataset
 
 ```bash
-$ cd Lab3
+$ cd Lab3-Image-Caption
 $ pip install -r requirements.txt
 $ chmod +x download.sh
 $ ./download.sh
